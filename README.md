@@ -4,6 +4,7 @@
 ## 1. PolishRed
 
 ![1](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnotting-Blender-PolishRed.png)
+![](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0.0/ChineseKnot-Blender-PolishRed.png)
 
 ![1](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-PolishRed-Render.jpg)
 
