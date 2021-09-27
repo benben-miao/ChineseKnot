@@ -3,29 +3,29 @@
 
 ## 1. PolishRed
 
-![1](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnotting-Blender-PolishRed.png)
+![1](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Blender-PolishRed.png)
 
-![1](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-PolishRed-Render.jpg)
+![1](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-PolishRed-Render.jpg)
 
 ---
 
 ## 2. Pink
 
-![2](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Pink.png)
+![2](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Blender-Pink.png)
 
-![2](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Pink-Render.jpg)
+![2](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Pink-Render.jpg)
 
 ---
 
 ## 3. Topaz
 
-![3](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Topaz.png)
+![3](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Blender-Topaz.png)
 
-![3](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Topaz-Render.jpg)
+![3](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Topaz-Render.jpg)
 
 ---
 
 ## 4. Emerald
-![4](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Blender-Emerald.png)
+![4](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Blender-Emerald.png)
 
-![4](https://gitee.com/benben-miao/image-cloud/raw/master/SketchFab/ChineseKnot-Emerald-Render.jpg)
+![4](https://cdn.jsdelivr.net/gh/benben-miao/ChineseKnot@1.0/ChineseKnot-Emerald-Render.jpg)
